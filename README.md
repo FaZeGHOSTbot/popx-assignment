@@ -1,18 +1,48 @@
-# React + Vite
+# PopX Assignment 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect React.js implementation of the PopX mobile UI, built as part of a frontend assignment.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+https://your-vercel-link.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📁 GitHub Repository
+https://github.com/yourusername/popx-assignment
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ Features
 
-Note: This will impact Vite dev & build performances.
+- Responsive mobile-first UI (centered layout)
+- Pixel-perfect design implementation from Adobe XD
+- React Router navigation between screens
+- Reusable components (Input fields)
+- Floating label inputs (custom styled)
+- Styled radio buttons and forms
+- Clean and modular code structure
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📱 Screens Implemented
+
+- Landing Page
+- Login Page
+- Signup Page
+- Profile Page
+
+---
+
+## 🛠 Tech Stack
+
+- React.js (Vite)
+- React Router DOM
+- CSS (custom styling)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/popx-assignment.git
+cd popx-assignment
+npm install
+npm run dev
