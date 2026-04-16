@@ -6,7 +6,7 @@ A pixel-perfect React.js implementation of the PopX mobile UI, built as part of 
 https://popx-assignment-eosin.vercel.app/
 
 ## 📁 GitHub Repository
-https://github.com/yourusername/popx-assignment
+https://github.com/FaZeGHOSTbot/popx-assignment.git
 
 ---
 
