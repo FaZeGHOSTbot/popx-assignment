@@ -3,7 +3,7 @@
 A pixel-perfect React.js implementation of the PopX mobile UI, built as part of a frontend assignment.
 
 ## 🔗 Live Demo
-https://your-vercel-link.vercel.app
+https://popx-assignment-eosin.vercel.app/
 
 ## 📁 GitHub Repository
 https://github.com/yourusername/popx-assignment
